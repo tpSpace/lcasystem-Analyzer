@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ad2b059-dc0e-477f-a117-274509210fed" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/resources/gitclone/assignment-1" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bAWFfawi9Ri9CfZB7w5x2KTmVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/temp/eplatform&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.28504673&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Pre-thesis studies\lca-system\analyzer-lca\analyzer-engine\target" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AnalyzerLcaSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="analyzer-lca-spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lca.analyzerlcaspring.AnalyzerLcaSpringApplication" />
+      <option name="VM_PARAMETERS" value="-enableassertions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ad2b059-dc0e-477f-a117-274509210fed" name="Changes" comment="" />
+      <created>1705658264342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705658264342</updated>
+      <workItem from="1705658267203" duration="4347000" />
+      <workItem from="1705664151879" duration="2498000" />
+      <workItem from="1706582208560" duration="1000" />
+      <workItem from="1707305933993" duration="2000" />
+      <workItem from="1708009495226" duration="1593000" />
+      <workItem from="1708753091945" duration="3113000" />
+      <workItem from="1709021909653" duration="88000" />
+      <workItem from="1709051265254" duration="1000" />
+      <workItem from="1709130045579" duration="4672000" />
+      <workItem from="1709135317895" duration="692000" />
+      <workItem from="1709437365194" duration="1311000" />
+      <workItem from="1709440226708" duration="2801000" />
+      <workItem from="1709696689733" duration="5989000" />
+      <workItem from="1709731040866" duration="7000" />
+      <workItem from="1709774665992" duration="4014000" />
+      <workItem from="1709793209763" duration="599000" />
+      <workItem from="1709830483625" duration="828000" />
+      <workItem from="1709860448216" duration="1785000" />
+      <workItem from="1709871764834" duration="498000" />
+      <workItem from="1709872325941" duration="7000" />
+      <workItem from="1710754951742" duration="1466000" />
+      <workItem from="1713517279477" duration="1105000" />
+      <workItem from="1713535480369" duration="1399000" />
+      <workItem from="1713884963815" duration="598000" />
+      <workItem from="1714202397941" duration="1828000" />
+      <workItem from="1714284597618" duration="4003000" />
+      <workItem from="1714450647159" duration="3083000" />
+      <workItem from="1714584936929" duration="599000" />
+      <workItem from="1714613728243" duration="599000" />
+      <workItem from="1714628605203" duration="2690000" />
+      <workItem from="1714969286635" duration="2165000" />
+      <workItem from="1715142523958" duration="6519000" />
+      <workItem from="1715327274124" duration="71000" />
+      <workItem from="1715327355835" duration="6389000" />
+      <workItem from="1715486534808" duration="22245000" />
+      <workItem from="1715626191921" duration="5939000" />
+      <workItem from="1715657321782" duration="4579000" />
+      <workItem from="1715677997519" duration="93000" />
+      <workItem from="1715678100813" duration="22052000" />
+      <workItem from="1715792897788" duration="1708000" />
+      <workItem from="1715836676102" duration="4315000" />
+      <workItem from="1715870846410" duration="10582000" />
+      <workItem from="1716261243954" duration="12819000" />
+      <workItem from="1716358103934" duration="985000" />
+      <workItem from="1716364418011" duration="799000" />
+      <workItem from="1716435593875" duration="1574000" />
+      <workItem from="1716516541511" duration="2870000" />
+      <workItem from="1717591343474" duration="3000" />
+      <workItem from="1717775803106" duration="4399000" />
+      <workItem from="1717812693377" duration="1195000" />
+      <workItem from="1717951754348" duration="1197000" />
+      <workItem from="1718457922583" duration="2650000" />
+      <workItem from="1718460989715" duration="19000" />
+      <workItem from="1718507233510" duration="4876000" />
+      <workItem from="1718616292797" duration="433000" />
+      <workItem from="1718630329417" duration="7062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/AssignmentServiceImpl.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/AnalyzerServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/AssignmentServiceImpl.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/AssignmentServiceImpl.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>97</line>
+          <properties class="com.lca.analyzerlcaspring.service.FaultLocalizationServiceImpl" method="compileMavenProject">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lca/analyzerlcaspring/service/FaultLocalizationServiceImpl.java</url>
+          <line>126</line>
+          <properties class="com.lca.analyzerlcaspring.service.FaultLocalizationServiceImpl" method="compileAntProject">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.lca.analyzerlcaspring.entity.ExecutedTest" memberName="isFailing" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="ctModel" />
+        <watch expression="((AnalyzerServiceImpl)analyzerService).assignmentQuestionRepository" custom="com.lca.analyzerlcaspring.service.AnalyzerServiceImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
