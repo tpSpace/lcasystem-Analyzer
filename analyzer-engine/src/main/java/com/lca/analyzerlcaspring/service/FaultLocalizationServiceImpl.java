@@ -90,7 +90,7 @@ public class FaultLocalizationServiceImpl implements FaultLocalizationService {
             LOGGER.info("Wrapping up fault localization process..."); // end debug mode right here to ensure no data on assignment_question is saved
 
         } catch (Exception e) {
-            LOGGER.error("Fault localization error: " + e.getMessage() + "\nPlease check for tests file in the analyzed Java project in case of insufficient test coverage!");
+            LOGGER.error("Fault localization error: {}\nPlease check for tests file in the analyzed Java project in case of insufficient test coverage!", e.getMessage());
 
         }
     }

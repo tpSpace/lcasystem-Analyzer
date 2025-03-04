@@ -15,10 +15,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLClassLoader;
 import java.text.MessageFormat;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 import static org.reflections.scanners.Scanners.SubTypes;
 import static org.reflections.scanners.Scanners.TypesAnnotated;
@@ -34,7 +31,7 @@ public class CustomAnalyzerConfig {
         List<URL> analyzerURLs = new ArrayList<>();
         File folder = new File("../../backend-files/");
         if (folder.listFiles() != null) {
-            List<File> analyzers = new ArrayList<>(Arrays.asList(folder.listFiles()));
+            List<File> analyzers = new ArrayList<>(Arrays.asList(Objects.requireNonNull(folder.listFiles())));
             for (File analyzer : analyzers) {
                 if (FilenameUtils.getExtension(analyzer.getName()).equals("jar")) {
                     try {

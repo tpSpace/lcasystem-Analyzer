@@ -20,7 +20,7 @@ public class CloneServiceImpl implements CloneService {
 
     @Override
     public void cloneRepo(int assignmentId, String assignmentUrl) throws Exception {
-        LOGGER.info("Start cloning repository (" + assignmentUrl + ") of assignment " + assignmentId + ".");
+        LOGGER.info("Start cloning repository ({}) of assignment {}.", assignmentUrl, assignmentId);
         File file = new File("src/main/resources/gitclone/assignment-" + assignmentId + "/");
         if (file.exists()) {
             LOGGER.info("Repository exists. Cleaning before cloning.");
@@ -31,7 +31,7 @@ public class CloneServiceImpl implements CloneService {
                     .setURI(assignmentUrl)
                     .setDirectory(file)
                     .call();
-            LOGGER.info("Finish cloning repository (" + assignmentUrl + ") of assignment " + assignmentId + ".");
+            LOGGER.info("Finish cloning repository ({}) of assignment {}.", assignmentUrl, assignmentId);
         } catch (GitAPIException gitAPIException) {
             throw new Exception("Cloned repository (" + assignmentUrl + ") of assignment " + assignmentId + " with exception " + gitAPIException);
         }
@@ -39,7 +39,7 @@ public class CloneServiceImpl implements CloneService {
 
     @Override
     public void cleanRepo(int assignmentId) throws Exception {
-        LOGGER.info("Start cleaning repository of assignment " + assignmentId + ".");
+        LOGGER.info("Start cleaning repository of assignment {}.", assignmentId);
         try {
             String osName = System.getProperty("os.name");
             ProcessBuilder builder = new ProcessBuilder();
@@ -59,7 +59,7 @@ public class CloneServiceImpl implements CloneService {
             Executors.newSingleThreadExecutor().submit(streamGobbler);
             int exitCode = process.waitFor();
             assert exitCode == 0;
-            LOGGER.info("Finish cleaning repository of assignment " + assignmentId + ".");
+            LOGGER.info("Finish cleaning repository of assignment {}.", assignmentId);
         } catch (Exception exception) {
             throw new Exception("Cleaning repository of assignment " + assignmentId + " with exception: " + exception);
         }

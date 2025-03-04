@@ -17,10 +17,10 @@ public class SpoonServiceImpl implements SpoonService {
         String path = PathConfig.getAssignmentPath(studentAssignmentId);
         SpoonAPI spoonAPI = new Launcher();
 
-        LOGGER.info("Start building Spoon model at path: " + path);
+        LOGGER.info("Start building Spoon model at path: {}", path);
         spoonAPI.addInputResource(path);
         CtModel ctModel = spoonAPI.buildModel();
-        LOGGER.info("Finish building Spoon model: " + ctModel.isBuildModelFinished());
+        LOGGER.info("Finish building Spoon model: {}", ctModel.isBuildModelFinished());
         return ctModel;
     }
 }
