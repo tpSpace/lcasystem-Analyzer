@@ -20,10 +20,10 @@
             <artifactId>core-analyzer-lib</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
-
+            <systemPath>../core-analyzer-lib/target/core-analyzer-lib-1.0.jar</systemPath>
         </dependency>
-
     </dependencies>
+
     <packaging>pom</packaging>
     <build>
         <plugins>
